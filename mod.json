@@ -20,12 +20,6 @@
 		}
 	],
 	"settings": {
-		"ui": {
-			"name": "Add control UI",
-			"description": "add buttons an other stuff to control things in game",
-			"type": "bool",
-			"default": false
-		},
 		"LevelTools::artistForAudio moment": {
 			"name": "Avoid crash at LevelTools::artistForAudio",
 			"description": "dont get original at hook of that function (since geode v3.6.0)",
